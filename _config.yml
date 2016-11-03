@@ -6,7 +6,7 @@ baseurl: "https://github.com/henryt78/henryt78.github.io"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-markdown: kramdown
+
 highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
