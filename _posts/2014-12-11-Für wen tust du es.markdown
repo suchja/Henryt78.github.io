@@ -18,12 +18,12 @@ Oder tut man doch die meisten Dinge meistens für andere?
 	<li> Chef/ Arbeitskollegen</li>
 	<li>die Gesellschaft</li>
 	<li> die Bank</li>
-	<li> der Verein/ Musikband</li>
+	<li> der Verein/ Musikband</li> </ul> <br>
 
 
 Ich denke, sehr viele Dinge im Alltag, die man meint, tun zu müssen, macht man für andere.<br>
-Und leider sehr wenig für sich selbst, <br> 
-das Schreiben hier z.B. mache ich nur für mich, weil es mein innnerer Antrieb ist, <br> 
+Und leider sehr wenig für sich selbst, das Schreiben hier z.B. mache ich nur für mich, <br> 
+weil es mein innnerer Antrieb ist, 
 es zu tun, und nicht von außen aufgedrückt!
 
 
