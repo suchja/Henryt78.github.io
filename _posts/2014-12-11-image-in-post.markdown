@@ -6,7 +6,7 @@ date:   2016-11-12
 
 <p class="intro"><span class="dropcap">E</span>
 
-Es geht ja wie immer ums Tun, nicht nachdenken, verschieben oder analysieren, einfach TUN!
+s geht ja wie immer ums Tun, nicht nachdenken, verschieben oder analysieren, einfach TUN!
 Nur stellt sich mir die Frage, für wen eigentlich?
 Für mich selbst, und wenn ja wer oder was ist das " selbst " eigentlich?
 Oder tut man doch die meisten Dinge eigentlich für andere?
