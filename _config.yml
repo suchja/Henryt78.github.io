@@ -1,8 +1,8 @@
-title: Tu es einfach
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: "Tu es einfach"
+description: "Long Form Jekyll theme built with SASS / COMPASS / SUSY"
 
-url: http://brianmaierjr.github.com/long-haul
-baseurl: "https://henryt78.github.io"
+url: "https://henryt78.github.io"
+baseurl: /
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -27,4 +27,4 @@ social:
    facebook: 
    email: info@sticktrix.de
 
-google_analytics: "UA-58263416-1"
+#google_analytics: "UA-58263416-1"
