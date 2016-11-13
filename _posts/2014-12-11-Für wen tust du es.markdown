@@ -11,14 +11,14 @@ Nur stellt sich mir die Frage, für wen eigentlich?<br>
 Für mich selbst, und wenn ja, wer oder was ist das "Selbst" überhaupt?<br>
 Oder tut man doch die meisten Dinge meistens für andere?
 
-<ul>
-<li> Eltern/ Familie</li>
-	<li> Freundin/ Frau</li>
-	<li>Freunde/ Bekannte</li>
-	<li> Chef/ Arbeitskollegen</li>
-	<li>die Gesellschaft</li>
-	<li> die Bank</li>
-	<li> der Verein/ Musikband</li> </ul> <br>
+
+ - Eltern/ Familie
+ - Freundin/ Frau
+ - Freunde/ Bekannte
+ - Chef/ Arbeitskollegen
+ - die Gesellschaft
+ - die Bank
+ - der Verein/ Musikband
 
 
 Ich denke, sehr viele Dinge im Alltag, die man meint, tun zu müssen, macht man für andere.<br>
