@@ -1,8 +1,8 @@
 title: "Tu es einfach"
 description: "Long Form Jekyll theme built with SASS / COMPASS / SUSY"
 
-url: "https://henryt78.github.io"
-baseurl: /
+url: "https://suchja.github.io/henryt78.github.io"
+baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -18,7 +18,7 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
-- title: Impressum
+ - title: Impressum
    url: /impressum
 
 social:
