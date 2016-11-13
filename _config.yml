@@ -18,6 +18,8 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
+- title: Impressum
+   url: /impressum
 
 social:
    github: henryt78
